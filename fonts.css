@@ -7,7 +7,7 @@
 }
 
 @font-face {
-	font-family: "Gotham Pro";
+	font-family: "GothamPro";
 	src: url('fonts/GothaProMed.ttf') format('truetype'),
 	     url('fonts/GothaProMed.woff') format('woff');
 	font-weight: 400;
